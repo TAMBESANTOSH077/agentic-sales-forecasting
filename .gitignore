@@ -1,0 +1,26 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Virtual environment
+backend/venv/
+venv/
+.env
+
+# Node
+frontend/node_modules/
+frontend/dist/
+
+# Vercel
+frontend/.vercel/
+
+# Python uploads
+backend/data/uploads/
+
+# IDE
+.vscode/
+
+# OS
+.DS_Store
+Thumbs.db
